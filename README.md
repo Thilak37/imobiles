@@ -17,9 +17,3 @@ Welcome to the iMobiles Website repository! This project aims to create a websit
 - Javascript
 - Docker
 
-
-## Project Structure
-
-- `src/`: Contains the source code for the website.
-- `Dockerfile`: Docker configuration for building the image.
-- `docker-compose.yml`: Docker Compose file for setting up the container.
