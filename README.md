@@ -1,11 +1,25 @@
-# imobiles
 
-Output - 
+# iMobiles Website
 
-![image](https://github.com/Thilak37/imobiles/assets/117532821/f45bebdb-cf81-46ee-8af9-11379d47ad2b)
+Welcome to the iMobiles Website repository! This project aims to create a website named iMobiles and run it locally using Docker for a seamless development experience.
+
+## Features
+
+- **Local Development Environment**: Use Docker to run the website on your localhost.
+- **Responsive Design**: Ensures optimal viewing on various devices.
+- **Traditional Technologies**: Built with HTML, CSS, JavaScript.
+- **Easy Setup**: Simple Docker configuration to get the website up and running quickly.
+
+## Technologies Used
+
+- HTML
+- CSS
+- Javascript
+- Docker
 
 
-Running docker file - 
+## Project Structure
 
-![image](https://github.com/Thilak37/imobiles/assets/117532821/4ca026da-ea34-4aab-bded-ebe6fc7fda63)
-
+- `src/`: Contains the source code for the website.
+- `Dockerfile`: Docker configuration for building the image.
+- `docker-compose.yml`: Docker Compose file for setting up the container.
